@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+chroma/
+data/processed/
+node_modules/
+.next/
+.DS_Store
